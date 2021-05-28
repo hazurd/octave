@@ -1,0 +1,6 @@
+certifi @ file:///home/kyur/.cache/pypoetry/artifacts/a5/b1/71/0fb759c6550e4dc0a538f0fc47cdf7dcd23bae70385241ee92b4d5b87c/certifi-2020.12.5-py2.py3-none-any.whl
+chardet @ file:///home/kyur/.cache/pypoetry/artifacts/47/b7/82/19c2b887f87f3adbaf4e34c55189388e5132c78f6929d7001a78b0209b/chardet-4.0.0-py2.py3-none-any.whl
+idna @ file:///home/kyur/.cache/pypoetry/artifacts/9e/f9/03/6066b92d35486e7f0d4f310126e3c60a6619726e43ef98e32e105b5c52/idna-2.10-py2.py3-none-any.whl
+octave==0.1.0
+requests @ file:///home/kyur/.cache/pypoetry/artifacts/fe/f0/74/d691c7619cd645682c495ff78949b9c284e88d3f2ee85124df5cec5b0a/requests-2.25.1-py2.py3-none-any.whl
+urllib3 @ file:///home/kyur/.cache/pypoetry/artifacts/f9/99/2e/6ae4733c6ee117b2da37ce5f8766d29c1824a0d4972c34fafc9143c654/urllib3-1.26.5-py2.py3-none-any.whl
